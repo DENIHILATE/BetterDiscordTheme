@@ -37,7 +37,7 @@
     --background-brightness: 100%;
     --show-original-title: 0;
     --show-custom-title: 1;
-    --custom-title-text: "ROBCO Industries (tm)";
+    --custom-title-text: "DENIHILATE RECORDS (tm)";
     --custom-title-font-size: 16px;
     --custom-title-font-weight: bold;
     --custom-title-margin-top: 0px;
@@ -463,7 +463,7 @@
 }
 
 html, body {
-    font-family: "Share Tech Mono",monospace
+    font-family: "Coolvetica",monospace
 }
 
 img[src*="avatars/137259132305539072"] + .header_c19a55::after, img[src*="users/137259132305539072"] + .header_c19a55::after {
@@ -507,7 +507,7 @@ img[src*="avatars/137259132305539072"] + .header_c19a55:hover::after, img[src*="
 }
 
 .info__2debe:last-child::after {
-    content: "Fallout 4 Terminal 4.0.1";
+    content: "DENIHILATE'S THEME 4.0.2";
     font-size: 12px;
     line-height: 16px;
     color: rgb(var(--rgb-highlight))
